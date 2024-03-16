@@ -7,6 +7,7 @@
 ## Что нужно сделать
 
 Реализовать в проекте следующие паттерны:
+
    ● PageObject/ScreenObject.
    ● Decorator.
    ● Factory.
